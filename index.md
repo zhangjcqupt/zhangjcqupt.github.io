@@ -13,9 +13,9 @@
 </table>
 
 ## 研究方向
-
-<font size=7>基于无人机航拍视频事件智能识别 </font> <br>基于无人机航拍视频事件智能识别
-
+<body>
+<font size=7>基于无人机航拍视频事件智能识别 </font> <br>
+</body>
 <!-- ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
