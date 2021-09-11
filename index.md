@@ -14,7 +14,7 @@
 
 ## 研究方向
 <body>
-<font size=7>基于无人机航拍视频事件智能识别 </font> <br>
+<font size=25>基于无人机航拍视频事件智能识别 </font> <br>
 </body>
 <!-- ### Markdown
 
